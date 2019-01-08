@@ -495,7 +495,7 @@ ul, li{
 	//border-top: 2px grey solid;
 	//border-bottom: 2px grey solid;
 }
-.ModalWindow input[type="text"]{
+.ModalWindow input[type="text"], input[type="number"], input[type="email"]{
 	background:url() 0 0 no-repeat;
 	width: 30%;
 	text-align: center;
